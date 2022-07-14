@@ -1,5 +1,5 @@
 # Predicting Football Match Outcome using Machine Learning
-This is my first machine learning project i did at Northeasten University. 
+This is my first machine learning project i did at CUSAT. 
 
 I have used dataset from two sites for this project
 1.https://www.kaggle.com/hugomathien/soccer  
